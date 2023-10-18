@@ -1,7 +1,29 @@
 p.serif {
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Times New Roman", Times;
 }
 
 p.sansserif {
   font-family: Arial, Helvetica, sans-serif;
+}
+p.arial{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: arial;
+  font-size: large;
+  font-weight: 900;
+}
+p.verdana{
+  font-family: Verdana,sans-serif;
+  font-size: 20px;
+}
+
+p.tahoma{
+  font-family: Tahoma, sans-serif;
+  font-size: 60%;
+}
+
+p.georgia{
+  font-family: Georgia, serif;
+}
+p.garamond{
+  font-family: garamond, serif;
 }
