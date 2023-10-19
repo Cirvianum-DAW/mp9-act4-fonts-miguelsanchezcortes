@@ -5,6 +5,21 @@ p.serif {
 p.sansserif {
   font-family: Arial, Helvetica, sans-serif;
 }
+p.monaco {
+  font-family: Monaco, monospace;
+}
+p.copperplate{
+  font-family: Copperplate, fantasy;
+}
+p.lucida-handwriting{
+  font-family: "Lucida Handwriting", cursive;
+}
+p.papyrus{
+  font-family: Papyrus, fantasy;
+}
+p.lucida-console{
+  font-family: "Lucida Console", Monaco, monospace;
+}
 p.arial{
   font-family: Arial, Helvetica, sans-serif;
   font-style: arial;
