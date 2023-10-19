@@ -20,9 +20,27 @@ p.papyrus{
 p.lucida-console{
   font-family: "Lucida Console", Monaco, monospace;
 }
+p.brush-script{
+  font-family: "Brush Script MT", cursive;
+}
+p.akronim{
+  font-family: Akronim, cursive;
+}
+p.kraken{
+  font-family: Kraken, fantasy;
+}
+p.sofia{
+  font-family: 'Sofia', cursive;
+  font-size: 22px;
+}
+p.acme{
+  font-family: 'Acme', sans-serif;
+}
+
+
+
 p.arial{
   font-family: Arial, Helvetica, sans-serif;
-  font-style: arial;
   font-size: large;
   font-weight: 900;
 }
